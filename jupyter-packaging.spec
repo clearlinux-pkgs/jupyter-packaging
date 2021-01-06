@@ -4,7 +4,7 @@
 #
 Name     : jupyter-packaging
 Version  : 0.7.9
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/69/ae/8a61f9c3011ed50afa9096dcbe469cb4f7b6924f77698e856b6b4d5edeb5/jupyter-packaging-0.7.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/69/ae/8a61f9c3011ed50afa9096dcbe469cb4f7b6924f77698e856b6b4d5edeb5/jupyter-packaging-0.7.9.tar.gz
 Summary  : Jupyter Packaging Utilities
@@ -56,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1609273092
+export SOURCE_DATE_EPOCH=1609951636
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
