@@ -4,7 +4,7 @@
 #
 Name     : jupyter-packaging
 Version  : 0.7.12
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/5c/9f/3b332f2a21487026f9521c3fba6efedec77b09f80bffccbb925bba33fcb5/jupyter-packaging-0.7.12.tar.gz
 Source0  : https://files.pythonhosted.org/packages/5c/9f/3b332f2a21487026f9521c3fba6efedec77b09f80bffccbb925bba33fcb5/jupyter-packaging-0.7.12.tar.gz
 Summary  : Jupyter Packaging Utilities
