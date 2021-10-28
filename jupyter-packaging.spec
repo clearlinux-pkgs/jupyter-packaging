@@ -4,7 +4,7 @@
 #
 Name     : jupyter-packaging
 Version  : 0.11.0
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/04/ed/a61feec48ace4acd2a9083232a4fde042c44529dcd5a11d0e3816bd3629d/jupyter_packaging-0.11.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/04/ed/a61feec48ace4acd2a9083232a4fde042c44529dcd5a11d0e3816bd3629d/jupyter_packaging-0.11.0.tar.gz
 Summary  : Jupyter Packaging Utilities.
